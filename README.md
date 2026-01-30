@@ -1,5 +1,5 @@
 # Movie Sorter
-A web based movive sorter. Allows users to run through a manual merge sort of their favorite
+A web based movie sorter. Allows users to run through a manual merge sort of their favorite
 movies from a set.
 
 **Features**
